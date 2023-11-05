@@ -1,0 +1,11 @@
+{
+  "name": "esm-node-mjs",
+  "version": "1.0.0",
+  "description": "Exemplo de uso do ESM com a extensão .mjs",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "author": "Caio Fuzatto",
+  "license": "MIT"
+}
