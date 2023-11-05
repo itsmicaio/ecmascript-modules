@@ -1,0 +1,12 @@
+{
+  "name": "esm-node-type-module",
+  "version": "1.0.0",
+  "description": "Exemplo de uso do ESM com o type module",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Caio Fuzatto",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module"
+}
